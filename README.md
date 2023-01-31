@@ -7,6 +7,7 @@ In our case, we have an abstract class Animal which is inherited by a Pigeon, a 
 To run the demo code,
 
 javac main Simulator.java
+
 java main.Simulator
 
 The output shows that not just that the Animal and eating behaviour are decoupled, but eating behaviour can be re-assigned at runtime. 
